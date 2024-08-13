@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello there adding some changes
 no it will not be there `
+hello there adding some changes`
+if i make changes here it will be there 
+
